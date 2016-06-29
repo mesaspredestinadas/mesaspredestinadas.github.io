@@ -1,0 +1,34 @@
+# Dependencies
+#markdown:         redcarpet
+highlighter:      pygments
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Permalinks
+permalink:        /:categories/:title/
+#relative_permalinks: true
+
+# Setup
+title:            Mesas Predestinadas
+tagline:          'Mesas para você que quer entender Fate'
+description:      'Podcast voltado para mesas de RPG baseado em Fate'
+url:              http://mesaspredestinadas.gitlab.io/
+baseurl:          /
+
+author:
+  name:           'Fábio Emilio Costa'
+  url:            https://twitter.com/hufflepuffbr
+
+paginate:         10
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+collections:
+  authors:
+    output: true

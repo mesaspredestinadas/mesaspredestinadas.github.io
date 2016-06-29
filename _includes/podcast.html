@@ -1,0 +1,12 @@
+<div style="margin-top: 50px;">
+<ul>
+                  {% for audio in page.audios %}
+  {% for audio_info in audio %}
+<li>
+                  <a href="{{ audio_info[1] }}">Programa em {{audio_info[0]}}</a>
+                  </li>
+                  {% endfor %}
+                  {% endfor %}
+{% include podcast_text.html %}
+</ul>
+</div>

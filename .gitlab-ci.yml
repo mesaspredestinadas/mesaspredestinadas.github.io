@@ -1,0 +1,16 @@
+image: ruby:2.3 
+
+pages:
+  stage: deploy
+  script:
+  - gem install jekyll
+  - gem install redcarpet
+  - gem install jekyll-paginate
+  - gem install jekyll-sitemap
+  - gem install jekyll-seo-tag
+  - jekyll build -d public/
+  artifacts:
+    paths:
+    - public
+  only:
+  - master

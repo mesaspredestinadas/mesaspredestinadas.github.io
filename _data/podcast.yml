@@ -1,0 +1,22 @@
+name: "Mesas Predestinadas"
+gpluspage: "https://plus.google.com/communities/100913016060492249875"
+copyright: (CC BY-NC-SA) 2015 - Mesas Predestnadas
+language: pt-br
+feeds:
+     - format: MP3
+       link: http://feeds.feedburner.com/FateMastersRPG
+     - format: OGG
+       link: http://feeds.feedburner.com/FateMastersRPG-OGG
+itunes:
+  link: https://itunes.apple.com/br/podcast/fate-masters/id1061476992
+  explicit: "NO"
+  keywords: "RPG, Fate, Fate Básico, Aventuras, Mesas"
+  podcast_image: /assets/MesasPredestinadas.png
+  author: "Mesas Predestinadas"
+  email: mesaspredestinadas@gmail.com
+  categories:
+      - RPG
+      - Fate
+      - Fate Core
+      - Fate Básico
+      
