@@ -1,12 +1,12 @@
 name: "Mesas Predestinadas"
-gpluspage: "https://plus.google.com/communities/100913016060492249875"
+#gpluspage: "https://plus.google.com/communities/100913016060492249875"
 copyright: (CC BY-NC-SA) 2015 - Mesas Predestnadas
 language: pt-br
 feeds:
      - format: MP3
-       link: http://feeds.feedburner.com/FateMastersRPG
+       link: http://feeds.feedburner.com/MesasPredestinadas
      - format: OGG
-       link: http://feeds.feedburner.com/FateMastersRPG-OGG
+       link: http://feeds.feedburner.com/MesasPredestinadas-OGG
 itunes:
   link: https://itunes.apple.com/br/podcast/fate-masters/id1061476992
   explicit: "NO"
