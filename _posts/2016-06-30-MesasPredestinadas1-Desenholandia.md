@@ -1,5 +1,5 @@
 ---
-title: 1º Destrito da Desenholândia
+title: Episódio 1 - 1º Destrito da Desenholândia
 subheadline: As aventuras dos intrépidos policias da Desenholândia, resolvendo um estranho caso de assassinato!
 date: 2016-06-30 11:00:00 -0300
 layout: post
@@ -23,9 +23,9 @@ hosts:
   - Fábio Emilio Costa (Narrador e _Oficial Andraas Mousekevitch_)
   - William de Mello Otomo (_Detetive Matthew 'Matty' McCormick_)
 audios:
- - OGG: https://archive.org/download/MP-Ep1-Desenholandia/MP-Ep1-Desenholandia.ogg
- - MP3: https://archive.org/download/MP-Ep1-Desenholandia/MP-Ep1-Desenholandia.mp3
-iaplayer: MP-Ep1-Desenholandia
+ - OGG: https://archive.org/download/MPEp1Desenholandia/MP-Ep1-Desenholandia.ogg
+ - MP3: https://archive.org/download/MPEp1Desenholandia/MP-Ep1-Desenholandia.mp3
+iaplayer: MPEp1Desenholandia
 comments: true
 events:
   - time: "00:00:00"
@@ -84,7 +84,7 @@ related_links:
   - text: Vídeo da mesa no Youtube
     link: https://www.youtube.com/watch?v=KLFfoPtIHRI        
   - text: Materiais e Regras usadas nessa aventura
-    link: https://archive.org/download/MP-Ep1-Desenholandia/CoracaoHumanoPodcast.zip
+    link: https://archive.org/download/MPEp1Desenholandia/CoracaoHumanoPodcast.zip
 ---
 
 Olá!
