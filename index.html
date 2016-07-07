@@ -8,9 +8,15 @@ title: Home
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
-        {{ post.title }}
+        {{ post.title | markdownify }}
       </a>
     </h1>
+
+{% if post.categories contains "Podcast" %}
+{% if post.subheadline %}
+<h2 class="post-subtitle">{{ post.subheadline | markdownify }} </h2>
+{% endif %}
+{% endif %}
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
