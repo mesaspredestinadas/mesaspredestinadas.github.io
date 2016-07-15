@@ -104,6 +104,8 @@ related_links:
     link: /npc/SiegfriedVonOestenhasse/
   - text: A mesa incluindo rolamentos e afins 
     link: https://youtu.be/4wgvUtevu9c
+  - text: As fichas dos Jovens Centuriões em PDF!
+    link: https://archive.org/download/MPEp3SombrasNaMata/FichasYoungCenturionsPodcast.pdf
 soundtrack:
   - music: Collected Works of Arthur Collins - Part 1
     artist: Arthur Collins

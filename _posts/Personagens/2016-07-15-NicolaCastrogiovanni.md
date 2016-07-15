@@ -16,7 +16,7 @@ header: no
 | __Conceito__     | _Garoto do Circo Extremamente Otimista e Ingênuo_           |
 | __Dificuldade__  | _Duas, Três, Quatro... Quantas chances forem necessárias_   |
 |                  | _Don Cagliostro sempre me protege_                          |
-|                  | _"Aquele valentão horroroso do meu ex-irmão adotivo"_       |
+|                  | Nicolino, _nome de palhaço – Uma vida no circo para mim_    |
 |                  | _O Escapulário de Minha Mãe, e a Boina de Meu Pai_          |
 
 ## Abordagens
