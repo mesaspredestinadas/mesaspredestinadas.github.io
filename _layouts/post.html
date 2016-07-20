@@ -9,8 +9,19 @@ layout: default
   {% if page.audios %}
   {% include podcast_player.html %}
   {% endif %}
+
   {{ content }}
-  {% if page.audios %}
+
+{% if page.youtube_table %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ post.youtube_table }}" frameborder="0" allowfullscreen></iframe>
+{% comment %}
+<iframe title="YouTube video player" class="youtube-player" type="text/html" 
+width="640" height="390" src="http://www.youtube.com/embed/{{ post.youtube_table }}"
+frameborder="0" allowFullScreen></iframe>
+{% endcomment %}
+{% endif %}
+
+{% if page.audios %}
   {% include podcast.html %}
   {% endif %}
 

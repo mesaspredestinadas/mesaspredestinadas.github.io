@@ -77,6 +77,9 @@ related_links:
     link: /personagens/CabecaDePedra/
   - text: Ficha dos NPCs da Aventura _Mundos Colidem_ (como feita aqui)
     link: /npcs/MundosColidem/
+  - text: Link para mesa gravada no YouTube
+    link: https://youtu.be/UgnJ7ZMJ_q8
+youtube_table: UgnJ7ZMJ_q8
 ---
 
 Olá!

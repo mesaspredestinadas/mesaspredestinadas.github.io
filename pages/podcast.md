@@ -7,7 +7,7 @@ header:
 permalink: "/podcast/"
 ---
 <ul>
-    {% for post in site.tags.fate-masters-podcast %} 
+    {% for post in site.tags.Mesas-Predestinadas %} 
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
