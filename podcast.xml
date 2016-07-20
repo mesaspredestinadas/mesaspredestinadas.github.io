@@ -39,7 +39,14 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 			<item>
 <author>{{ site.data.podcast.itunes.author | site.name }}</author>
 				<title>{{ post.title | xml_escape }}</title>                                
-				<description>{{ post.content | xml_escape }}
+				<description>
+                                  {% if post.subheadline %}
+                                  {% capture subtitle %}
+                                  <h2> {{ post.subheadline | markdownify }} </h2>
+                                  {% endcapture %}
+                                  {{ subtitle | xml_escape }}
+                                  {% endif %}
+                                  {{ post.content | xml_escape }}
                   {{ shownotes | xml_escape %}}
                   {% for audio in post.audios %}
                   {% for audio_info in audio %}

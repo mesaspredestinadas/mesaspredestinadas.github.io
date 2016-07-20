@@ -1,6 +1,7 @@
 ---
 ---
-<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -38,7 +39,14 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 			<item>
 <author>{{ site.data.podcast.itunes.author | site.name }}</author>
 				<title>{{ post.title | xml_escape }}</title>                                
-				<description>{{ post.content | xml_escape }}
+				<description>
+                                  {% if post.subheadline %}
+                                  {% capture subtitle %}
+                                  <h2> {{ post.subheadline | markdownify }} </h2>
+                                  {% endcapture %}
+                                  {{ subtitle | xml_escape }}
+                                  {% endif %}
+                                  {{ post.content | xml_escape }}
                   {{ shownotes | xml_escape %}}
                   {% for audio in post.audios %}
                   {% for audio_info in audio %}

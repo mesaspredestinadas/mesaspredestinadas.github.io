@@ -1,6 +1,6 @@
 ---
-title: Episódio 1 - 1º Destrito da Desenholândia
-subheadline: As aventuras dos intrépidos policias da Desenholândia, resolvendo um estranho caso de assassinato!
+title: Episódio 1 - Coração Humano, Corpo de Desenho
+subheadline: As aventuras dos intrépidos policias do 1º Destrito da Desenholândia, resolvendo um estranho caso de assassinato!
 date: 2016-06-30 16:00:00 -0300
 layout: post
 categories:
