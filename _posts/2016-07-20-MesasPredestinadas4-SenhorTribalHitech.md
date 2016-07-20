@@ -95,7 +95,6 @@ related_links:
     link: /mesas-predestinadas/adventure/TheVerneChieftain/
   - text: Link para mesa gravada no YouTube
     link: https://youtu.be/sOXF6KVnfsI
-
 youtube_table: sOXF6KVnfsI
 soundtrack:
   - music: Victory of Heroes
@@ -122,6 +121,7 @@ Nessa quarta Mesa Predestinada apresentamos o jogo que tivemos em um cenário em
 Nessa Mesa, os conhecidos membros dos podcasts da _Família Fate_ ([Fate Masters][fatemasters], [Rolando +4][rolandomaisquatro] e Mesas Predestinadas) _Rafael Meyer_ (o Velho Lich do [Fate Masters][fatemasters]) e _Jean da Silva_ (do [Rolando +4][rolandomaisquatro]) enfrentam o desafio de descobrir um misterioso Senhor Tribal que, por meio de sua tecnologia superheroica, procura criar sua própria armada de supersoldados! Na maior instalação para refugiados do mundo pós-Evento, a _Roque Santeiro_, eles devem auxiliar a manter a ordem como parte dos _Heròs Sans Frontiere_ (__Heróis Sem Fronteira__), uma organização superheroica ligada aos _Médicos Sem Fronteiras_. Serão eles capazes de enfrentar os perigos que a Serra Leoa pós-Evento os oferece? E como que uma droga pode despertar poderes em pessoas normais? Esse é o desafio proposto aos heróis!
 
 Nosso contato para esse podcast é o _email_ <mesaspredestinadas@gmail.com>, entre outros contatos a serem estipulados.
+
 
 [fatemasters]: http://fatemasters.github.io
 [rolandomaisquatro]: http://rolandomaisquatro.github.io
