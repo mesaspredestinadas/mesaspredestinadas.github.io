@@ -42,6 +42,19 @@
     font-weight: normal;
     font-style: normal;
 }
+
+
+@font-face{ 
+	font-family: 'Fate Core Font';
+	src: url('/assets/css/fate_core_font-webfont.eot');
+	src: url('/assets/css/fate_core_font-webfont.eot?#iefix') format('embedded-opentype'),
+	     url('/assets/css/fate_core_font-webfont.woff') format('woff'),
+	     url('/assets/css/fate_core_font-webfont.ttf') format('truetype'),
+	     url('/assets/css/fate_core_font-webfont.svg#webfont') format('svg');
+}
+
+
+
 /*
 @font-face{ 
       font-family: 'WebSymbolsLigaRegular';
@@ -404,3 +417,4 @@ a.sidebar-nav-item:focus {
 .theme-base-0d .related-posts li a:hover {
   color: #158540;
 }
+

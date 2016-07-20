@@ -50,6 +50,32 @@ events:
     text: Blackstar e Chimera consultam alguns líderes tribais locais por pistas relativas a Derek Kwazani
   - time: "01:38:45"
     text: Blackstar usa seus contatos na cidade, e um Senhor de Armas conhecido dela oferece pistas sobre um _Witch Doctor_ local vendedor da Droga do Limiar
+  - time: "01:42:45"
+    text: O Jean precisou sair, então Chimera é chamado de volta à Roque Santeiro enquanto Blackstar questiona o _Witch Doctor_
+  - time: "01:46:48"
+    text: Um dos Quatro de Elite de Kwazani confronta Blackstar, enlouquecendo ao citar "pai e filho"
+  - time: "01:51:35"
+    text: Panther e Blackstar começam a negociar por causa da Filha de Panther 
+  - time: "02:00:02"
+    text: Blackstar conseguer um novo Retroviral para a Filha de Panther
+  - time: "02:02:08"
+    text: Blackstar retorna à Roque Santeiro e obtem informações adicionais sobre a Elite de Derek Kwazani
+  - time: "02:03:55"
+    text: Blackstar procura a família de Kilimanjaro por informações, e acaba encontrando a mesma
+  - time: "02:17:35"
+    text: Blackstar repassa as informações obtidas com Kilimanjaro para Diana, e começa a preparar-se o ataque
+  - time: "02:22:07"
+    text: A invasão começa, com um primeiro combate contra seguranças da base de Kwazani
+  - time: "02:29:01"
+    text: No segundo nível, os heróis são obrigados a se render, sob risco da morte de Jiminy Cricket (que apesar de herói, tem o tamanho de uma criança de nove anos!)
+  - time: "02:35:02"
+    text: O momento no qual Derek Kwazani revela seu plano para _"devolver a África a seu lugar de respeito"_
+  - time: "02:39:40"
+    text: Os heróis são colocados em uma _Cúpula do Trovão_ contra alguns Limiares ensandecidos
+  - time: "02:55:32"
+    text: Os heróis escapam e _Derek Kwazani_ se vê em uma situação em que tem que negociar sua rendição
+  - time: "03:04:55"
+    text: A Conclusão da Aventura...
 related_links:
   - text: Sobre a série de livros _Wearing the Cape_
     link: https://marionharmon.com/wearing-the-cape/
@@ -57,8 +83,19 @@ related_links:
     link: https://marionharmon.com/2016/06/11/wtcrpg-stage-ii/
   - text: "Comunidade do Google+ para o _Playtest_ de  _Wearing the Cape: The Roleplaying Game_"
     link: https://plus.google.com/communities/117750663533011994057
+  - text: Ficha do Quimera
+    link: https://drive.google.com/file/d/0B13x_ltL7x6ZNXdObVprU29ncWM/view?usp=sharing
+  - text: Ficha da Blackstar
+    link: https://docs.google.com/document/d/1Z5H3VTXQsAMg8UG6nOxEIGB9F9kBsoNM4ohucRE9XWg/edit?usp=sharing
+  - text: "Ficha da Sugarplum (Nome Verdadeiro: Eileen McRae) (em Inglês)"
+    link: /characters/wtc/Sugarplum/
+  - text: "Ficha do Jiminy Cricket (Nome Verdadeiro: Joshua McCarthy) (em Inglês)"
+    link: /wtc/characters/JiminyCricket/
+  - text: "A Aventura mestrada (em Inglês)"
+    link: /mesas-predestinadas/adventure/TheVerneChieftain/
   - text: Link para mesa gravada no YouTube
     link: https://youtu.be/sOXF6KVnfsI
+
 youtube_table: sOXF6KVnfsI
 soundtrack:
   - music: Victory of Heroes
