@@ -85,6 +85,7 @@ related_links:
     link: https://www.youtube.com/watch?v=KLFfoPtIHRI        
   - text: Materiais e Regras usadas nessa aventura
     link: https://archive.org/download/MPEp1Desenholandia/CoracaoHumanoPodcast.zip
+youtube_table: KLFfoPtIHRI
 ---
 
 Olá!

@@ -106,6 +106,9 @@ related_links:
     link: https://youtu.be/4wgvUtevu9c
   - text: As fichas dos Jovens Centuriões em PDF!
     link: https://archive.org/download/MPEp3SombrasNaMata/FichasYoungCenturionsPodcast.pdf
+  - text: Link para mesa gravada no YouTube
+    link: https://youtu.be/4wgvUtevu9c
+youtube_table: 4wgvUtevu9c
 soundtrack:
   - music: Collected Works of Arthur Collins - Part 1
     artist: Arthur Collins
