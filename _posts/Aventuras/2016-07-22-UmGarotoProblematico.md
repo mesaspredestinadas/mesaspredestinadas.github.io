@@ -1,6 +1,13 @@
 ---
-title: Aventura Strays
-
+title: Um Garoto Problemático
+subheadline: "Uma Aventura Natalina para _Strays_"
+date: 2016-07-20 08:00:00 -0300
+layout: post
+categories:
+  - Mesas-Predestinadas
+  - Aventura
+tags:
+  - Strays
 ---
 
 ## Cena 1 - _Briefing_
