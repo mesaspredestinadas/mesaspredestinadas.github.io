@@ -52,6 +52,22 @@ events:
     text: Agora é hora de fazer com que Alexander e Érico saibam que não é necessário mais a distração... E Pirulito irá mencionar algo muito vergonhoso sobre Alexander graças a Emily...
   - time: "01:29:09"
     text: Enquanto Érico "escorraça" Pirulito por "incomodar as pessoas", Alexander consegue se encontrar com os demais, deixando um Reginaldo abobado para trás
+  - time: "01:32:52"
+    text: Emily e Alexander explicam sobre a pista obtida por Pirulito (o que é um dos tropos do Desenho)
+  - time: "01:41:37"
+    text: Todos vão descansar na casa de Tomé depois do chá de Emily, e na manhã seguinte todos tem uma surpresa felina enquanto voltam para a Vila do Queijo!
+  - time: "01:46:01"
+    text: Pirulito afasta o gato usando um truque de circo com uma garrafa de legítimo _booze_ americano dado por Alexander
+  - time: "01:52:00"
+    text: Tomé diz que procura conseguir mais tempo para os moradores da Vila, mas Érico ainda assim vem com más notícias
+  - time: "02:00:56"
+    text: Os personagens preparam-se para o pior, caso a polícia camundonga aja contra a população da Vila do Queijo
+  - time: "02:10:39"
+    text: Reginaldo parece se vangloriar, mas os personagens aparecem para acabar com a festa
+  - time: "02:17:45"
+    text: _"A Lei é para todos, sem exceção!"_ - a Conclusão da Aventura
+  - time: "02:21:17"
+    text: Sexta de Carnaval... E o que aconteceu depois...
 related_links:
   - text: Sobre os Camundongos Aventureiros
     link: https://pt.wikipedia.org/wiki/The_Country_Mouse_and_the_City_Mouse_Adventures
@@ -66,7 +82,11 @@ related_links:
   - text: Sobre Usucapiçao
     link: https://pt.wikipedia.org/wiki/Usucapi%C3%A3o
   - text: O episódio onde aparece a citação sobre o Alexander e trombadas
-    link: https://www.youtube.com/watch?v=RKWDv8Y9t4M    
+    link: https://www.youtube.com/watch?v=RKWDv8Y9t4M
+  - text: Sobre Grileiros
+    link: https://pt.wikipedia.org/wiki/Grileiro#Origem_do_termo
+  - text: A aventura mestrada para ler _online_
+    link: /aventuras/VilaDoQueijo/
 youtube_table: oDbyWAq_MLs
 soundtrack:
   - music: Music from 1915

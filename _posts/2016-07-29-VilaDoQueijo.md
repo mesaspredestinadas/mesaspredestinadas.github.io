@@ -213,7 +213,7 @@ _Endi Apoema_ (Aquele que Vê Longe e tem a Luz) é atualmente o líder de um pe
 	+ __Guerreiros:__
 		+ _Camundongos Guerreiros_, _Defendemos a Honra de Nossa Tribo_
 		+ _Combate_ Regular (+1), _Atletismo_ Regular (1)
-		+ Estresse: [][] (quatro Guerreiros)
+		+ Estresse: `2`{: .fate_font} (quatro Guerreiros)
 
 	+ __Pajé:__
 		+ _Camundongo Índio_, _Sabedoria do Passado_
@@ -307,7 +307,7 @@ Reginaldo alega ser dono da região da Vila do Queijo, a favela roedora do Rio d
 	+ _Ratos Arruaceiros, Quebrar tudo_
 	+ **Peritos em (+2):** Brigar; Intimidar; Lutar em Grupo
 	+ **Ruins em (-2):** serem corajosos
-	+ **Estresse:** [][] (4 arruaceiros)
+	+ **Estresse:** `2`{: .fate_font}  (4 arruaceiros)
 
 ### Genésio, um investidor ambicioso
 
@@ -426,5 +426,5 @@ _ENORME!!! (ao menos para camundongos); Monstro Comedor de Camundongos_
 
 + **Perito (+2) em:** Ronronar; Atacar criaturas menores
 + **Ruim (-2) em:** Todo o resto
-+ **Estresse:** [][][][][][]
++ **Estresse:** `6`{: .fate_font}
 
