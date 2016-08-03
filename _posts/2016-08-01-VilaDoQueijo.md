@@ -7,10 +7,7 @@ categories:
 tags:
  - Fate
  - Fate-Core
- - Mesas-Predestinadas
- - Podcast
  - Camundongos Aventureiros
- - Playtest
 header: no
 
 ---

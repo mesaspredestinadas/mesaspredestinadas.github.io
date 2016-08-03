@@ -1,7 +1,7 @@
 ---
 title: "Episódio 6 - A Vila do Queijo (Destino dos Camundongos Aventureiros)"
 subheadline: Pequenos camundongos tem que, com a ajuda de seus primos, impedir que uma grande trapaça tome o lar de muitos!
-date: 2016-07-29 08:30:00 -0300
+date: 2016-08-03 12:00:00 -0300
 layout: post
 categories:
   - Mesas-Predestinadas
@@ -12,7 +12,6 @@ tags:
  - Mesas-Predestinadas
  - Podcast
  - Camundongos Aventureiros
- - Playtest
 header: no
 maisquatro_comments: true 
 podcast_time: 147min
@@ -20,11 +19,11 @@ itunes:
   duration: 02:27:02
 hosts:
   - Fábio Emilio Costa (Narrador e _Tomé_)
-  - Walter Melo (Pirulito)
-  - Erick Zukrio (Érico)
+  - Walter Melo (_Pirulito_)
+  - Erick Zukrio (_Érico_)
 audios:
- - OGG: https://archive.org/download/MPEp6VilaDoQueijo/MP-Ep6-VilaDoQueijo.ogg
- - MP3: https://archive.org/download/MPEp6VilaDoQueijo/MP-Ep6-VilaDoQueijo.mp3
+ - OGG: https://archive.org/download/MPEp6VilaDoQueijo/MP6-VilaDoQueijo.ogg
+ - MP3: https://archive.org/download/MPEp6VilaDoQueijo/MP6-VilaDoQueijo.mp3
 iaplayer: MPEp6VilaDoQueijo
 comments: true
 events:
@@ -79,7 +78,7 @@ related_links:
     link: /assets/extras/AVilaDoQueijo.pdf
   - text: A mesa gravada no YouTube
     link: http://youtu.be/oDbyWAq_MLs
-  - text: Sobre Usucapiçao
+  - text: Sobre Usucapião
     link: https://pt.wikipedia.org/wiki/Usucapi%C3%A3o
   - text: O episódio onde aparece a citação sobre o Alexander e trombadas
     link: https://www.youtube.com/watch?v=RKWDv8Y9t4M
