@@ -9,7 +9,6 @@ tags:
  - Fate-Core
  - Camundongos Aventureiros
 header: no
-
 ---
 
 ## A Aventura - A Vila do Queijo
