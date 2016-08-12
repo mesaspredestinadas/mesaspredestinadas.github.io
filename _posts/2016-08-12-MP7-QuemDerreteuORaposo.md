@@ -39,6 +39,10 @@ events:
     text: Os oficiais voltam ao Distrito e se preparam para ir ao _Dodô Pirado_
   - time: "00:58:19"
     text: Os oficiais a paisana pedem seus drinques e Lester quase põe tudo a perder, até que Bunny faz ele virar um carneirinho! LITERALMENTE!!!!!
+  - time: "01:06:23"
+    text: O carneirinho Lester procura contatos, mas acaba quase se metendo em confusão com gangsters locais, mas Bunny procura socorrê-lo!
+  - time: "01:13:54"
+    text: Os policiais começam a conversar com os mafiosos e com isso obterem informações sobre o caso.
 related_links:
   - text: A aventura mestrada para ler _online_
     link: /aventuras/QuemDerreteuORaposo/

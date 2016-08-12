@@ -30,7 +30,7 @@ As acusações de lado a lado estão aumentando bem rápido, e muitos acreditam 
   - Território de O'Toole;
 - __O Caldo!__
   - Ele não tinha desaparecido com o _Juiz Doom?!_
-- **O _Dodo Pirado_:**
+- **O _Dodô Pirado_:**
   - Rinozzo é um dos Patronos;
 
 ### Como os jogadores chegam aqui?
@@ -52,7 +52,7 @@ Se olharem ao redor, os personagens vão perceber que estão sendo vigiados por 
 Porém, se os personagens forem espertos e ignorarem os gangsteres, eles obterão algumas informações e pistas valiosas:
 
 - Eles vão perceber que o homem de Rinozzo foi literalmente banhado em Caldo vindo do alto.
-- Se foram para o topo do prédio próximo, eles encontrarão um galão vazio (material real, nada feito de desenho, os personagens poderão perceber), um par de luvas de latex (humanas, com restos de Caldo nela) e uma caixa de fósforos do _Dodo Pirado_, o bar e casa de diversões adultas local;
+- Se foram para o topo do prédio próximo, eles encontrarão um galão vazio (material real, nada feito de desenho, os personagens poderão perceber), um par de luvas de latex (humanas, com restos de Caldo nela) e uma caixa de fósforos do _Dodô Pirado_, o bar e casa de diversões adultas local;
 - No meio do caldo, ainda é possível recuperar os restos de um lenço de bolso salmão (feito de desenho, com queimaduras de Caldo);
 
 ### ​Problemas
@@ -61,14 +61,14 @@ Porém, se os personagens forem espertos e ignorarem os gangsteres, eles obterã
   - Ânimos prontos a explodir
 - O Caldo realmente está de volta;
   - Perigo para todos os Desenhos da Desenholândia
-- O que o Dodo Pirado tem a ver com tudo isso?
+- O que o Dodô Pirado tem a ver com tudo isso?
   - Impensável que Foxxy esteja envolvida!
 
-## ​Capítulo 2 – No _Dodo Pirado_
+## ​Capítulo 2 – No _Dodô Pirado_
 
-Se os personagens tentarem ir ao _Dodo Pirado_, eles então poderão obter informações diretamente da dona, Suzan "Foxxy" Fox. Ela está vestindo um terno com cartola, calças e gravata borboleta, tudo feito impecavelmente sob medida, tão sexy quanto respeitável. Se eles vierem diretamente, anunciando a sua intenção, os crocodilos leões de chácara estão com ordens para os levar diretamente a Foxxy. Ela então oferecerá alguns drinques como cortesia e então dirá:
+Se os personagens tentarem ir ao _Dodô Pirado_, eles então poderão obter informações diretamente da dona, Suzan "Foxxy" Fox. Ela está vestindo um terno com cartola, calças e gravata borboleta, tudo feito impecavelmente sob medida, tão sexy quanto respeitável. Se eles vierem diretamente, anunciando a sua intenção, os crocodilos leões de chácara estão com ordens para os levar diretamente a Foxxy. Ela então oferecerá alguns drinques como cortesia e então dirá:
 
-> _"Imagino que estejam aqui por causa daquele horrível Assassinato com Caldo. Acreditem em mim quando digo que nem eu nem ninguém do staff do_ Dodo _está envolvido... Esse local é um Elíseo, um local onde todos podem relaxar de maneira clara e garantida, sem temer nenhum inimigo que esteja aqui. Essa é uma tradição de quando meu pai fundou esse bar, na época da Lei Seca, e eu faço tudo que for possível para manter as coisas assim."_
+> _"Imagino que estejam aqui por causa daquele horrível Assassinato com Caldo. Acreditem em mim quando digo que nem eu nem ninguém do staff do_ Dodô _está envolvido... Esse local é um Elíseo, um local onde todos podem relaxar de maneira clara e garantida, sem temer nenhum inimigo que esteja aqui. Essa é uma tradição de quando meu pai fundou esse bar, na época da Lei Seca, e eu faço tudo que for possível para manter as coisas assim."_
 
 Dito isso, ela começará a responder qualquer pergunta que os personagens façam, incluindo coisas como
 
@@ -106,19 +106,19 @@ De certa forma isso é verdadeiro: embora Rinozzo seja durão e forte, ele tamb�
 
 + ___"Você tem algo contra algum deles?"___
 
->_"O_ Dodo Pirado _é um Elíseo desde os tempos do meu pai, durante a_ Lei Seca. _Faço o máximo para que ele realmente permaneça assim."_
+>_"O_ Dodô Pirado _é um Elíseo desde os tempos do meu pai, durante a_ Lei Seca. _Faço o máximo para que ele realmente permaneça assim."_
 
-Aqui Foxxy não está dizendo totalmente a verdade: o _Dodo_ realmente é um Elíseo (Elíseos são locais onde a violência entre desenhos é terminantemente proibida), e desenhos levam essa tradição dos Elíseos muito a sério. Porém, ela _tem_ algo contra O'Toole. Testes de _Astúcia_ ou _Espertos_ podem indicar que a linguagem corporal dela demonstra que ela tem algo contra O'Toole. Se pressionada, ela suspirará e dizer:
+Aqui Foxxy não está dizendo totalmente a verdade: o _Dodô_ realmente é um Elíseo (Elíseos são locais onde a violência entre desenhos é terminantemente proibida), e desenhos levam essa tradição dos Elíseos muito a sério. Porém, ela _tem_ algo contra O'Toole. Testes de _Astúcia_ ou _Espertos_ podem indicar que a linguagem corporal dela demonstra que ela tem algo contra O'Toole. Se pressionada, ela suspirará e dizer:
 
->_"Tudo bem: na realidade, eu realmente quero o pelo do O'Toole. Ele tentou coletar propinas por 'proteção' do_ Dodo _e tentou gracinhas com as meninas daqui, chegando a tentar as estuprar. Ele não tem honra: mesmo Rinozzo me deixa cuidar dos meus próprios negócios. A única vez que ele veio no_ Dodo_, ele tentou fazer confusão e tive que o colocar para fora, aquele idiota."_
+>_"Tudo bem: na realidade, eu realmente quero o pelo do O'Toole. Ele tentou coletar propinas por 'proteção' do_ Dodô _e tentou gracinhas com as meninas daqui, chegando a tentar as estuprar. Ele não tem honra: mesmo Rinozzo me deixa cuidar dos meus próprios negócios. A única vez que ele veio no_ Dodô_, ele tentou fazer confusão e tive que o colocar para fora, aquele idiota."_
 
-Agora temos a verdade: recentemente, O'Toole foi expulso do _Dodo_ após quebrar algumas das regras implícitas do mesmo. Foram necessários outros 10 caras (!!!) para ajudar os leões de chácara para colocar O'Toole para fora do _Dodo_.
+Agora temos a verdade: recentemente, O'Toole foi expulso do _Dodô_ após quebrar algumas das regras implícitas do mesmo. Foram necessários outros 10 caras (!!!) para ajudar os leões de chácara para colocar O'Toole para fora do _Dodô_.
 
 + ___"E você acha que ele deseja se vingar de você? Por isso da caixa de fósforo?"___
 
-> _"Acho que sim, mas mesmo O'Toole não seria imbecil a esse ponto: ele sabe que se mexer com o_ Dodo_, ele mexerá com, pelo menos, metade da Desenholândia. Em especial, temos o apoio de Rinozzo, que gosta muito daqui."_
+> _"Acho que sim, mas mesmo O'Toole não seria imbecil a esse ponto: ele sabe que se mexer com o_ Dodô_, ele mexerá com, pelo menos, metade da Desenholândia. Em especial, temos o apoio de Rinozzo, que gosta muito daqui."_
 
-Verdade total: O _Dodo Pirado_ é um dos bares de diversão adulta mais importantes da Desenholândia, sendo que metade da população adulta da Desenholândia já esteve pelo menos uma vez nele e todos se importam com ele. Se O'Toole tentar pegar pesado com o _Dodo_, ele provavelmente vai pegar mais encrenca do que ele poderia aguentar.
+Verdade total: O _Dodô Pirado_ é um dos bares de diversão adulta mais importantes da Desenholândia, sendo que metade da população adulta da Desenholândia já esteve pelo menos uma vez nele e todos se importam com ele. Se O'Toole tentar pegar pesado com o _Dodô_, ele provavelmente vai pegar mais encrenca do que ele poderia aguentar.
 
 + ___"Rinozzo está aqui?"___
 
@@ -163,7 +163,7 @@ Se eles apresentarem as pistas que obtiveram no final do Capítulo 1 (caso tenha
 > + __Foxxy:__ _"Um monte de pessoas levam embora essas caixas de fósforo todas as noites. É um brinde de cortesia que temos aqui."_
 > + __Rinozzo:__ _"Não sei porque isso seria importante: qualquer um pode simplesmente pedir um às garçonetes"_
 
-De fato, Foxxy usa as caixas de fósforo como _merchandise_ e lembrança do _Dodo_. Mesmo os personagens pode conseguir uma caixa como essa: basta pedir às garçonetes e pagar cinco centavos (são de graça se o personagem comprar cigarros ou charutos)
+De fato, Foxxy usa as caixas de fósforo como _merchandise_ e lembrança do _Dodô_. Mesmo os personagens pode conseguir uma caixa como essa: basta pedir às garçonetes e pagar cinco centavos (são de graça se o personagem comprar cigarros ou charutos)
 
 + ___As luvas de latex:___
 
