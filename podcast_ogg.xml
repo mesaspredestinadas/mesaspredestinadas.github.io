@@ -47,7 +47,7 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
                                   {{ subtitle | xml_escape }}
                                   {% endif %}
                                   {{ post.content | xml_escape }}
-                  {{ shownotes | xml_escape %}}
+                  {{ shownotes | xml_escape }}
                   {% for audio in post.audios %}
                   {% for audio_info in audio %}
                                         {% if audio_info[0] == "OGG" %}
@@ -57,7 +57,7 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
                                         </a>
                                         {% include rss_podcast_text.html %}
                                         {% endcapture %}
-                                        {{ link | xml_escape}}
+                                        {{ link | xml_escape }}
                                         {% endif %}
                                         {%endfor%}
                                         {%endfor%}
@@ -71,7 +71,7 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
                                         {% endif %}
                   {% endfor %}
                   {% endfor %}
-<itunes:duration>{{post.itunes.duration}}</itunes:duration>
+<itunes:duration>{{ post.itunes.duration }}</itunes:duration>
 <!-- <itunes:keywords></itunes:keywords> -->
 <itunes:summary>{{post.excerpt}}</itunes:summary>
 <itunes:subtitle>{{ post.teaser | site.data.podcast.itunes.subtitle | site.description }}</itunes:subtitle>
