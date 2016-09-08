@@ -22,10 +22,13 @@ hosts:
   - Jean da Silva (_Oficial Lester "Lobo Mau" McWolf_)
   - Gabriela Garofano (_Oficial Bunny "Manteiguinha" Butter_)
 audios:
- - OGG: https://archive.org/download/MPEp7QuemDerreteuORaposo/MP-Ep7-QuemDerreteuORaposo.ogg
- - MP3: https://archive.org/download/MPEp7QuemDerreteuORaposo/MP-Ep7-QuemDerreteuORaposo.mp3
+ - OGG: https://archive.org/download/MPEp7QuemDerreteuORaposo/MP7-QuemDerreteuORaposo.ogg
+ - MP3: https://archive.org/download/MPEp7QuemDerreteuORaposo/MP7-QuemDerreteuORaposo.mp3
 iaplayer: MPEp7QuemDerreteuORaposo
 comments: true
+related_links:
+  - text: A aventura mestrada para ler _online_
+    link: /aventuras/QuemDerreteuORaposo/
 events:
   - time: "00:00:10"
     text: Apresentação básica do Cenário e dos Personagens

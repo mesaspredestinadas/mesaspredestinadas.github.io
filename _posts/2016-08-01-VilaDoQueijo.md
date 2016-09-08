@@ -15,7 +15,6 @@ header: no
 
 + **Aspectos:**
 	+ A alegria de ver primos de lugares estranhos
-	+ A beleza da vida humilde
 
 Os personagens irão recepcionar os seus primos vindos dos Estados Unidos, Emily e Alexander. Não se preocupe se os personagens perguntarem como todos se entendem: todos os camundongos do mundo falam o mesmo idioma, além dos idiomas de outros animais (no que Emily é especialmente versada). Faça com que os personagens apresentem o Rio de Janeiro para os camundongos aventureiros, apresentando locais como a Igreja da Lapa e o Cristo Redentor, ainda que à distância. Caso queira, deixe que eles vejam o Cristo Redentor e os Arcos da Lapa, onde ainda muitas comunidades, tanto humanas quanto roedoras vão buscar água para beber.
 
@@ -419,4 +418,4 @@ _ENORME!!! (ao menos para camundongos); Monstro Comedor de Camundongos_
 + **Estresse:** `6`{: .fate_font}
 
 
-[spirit-helpers]: /rpg/SpiritHelpers/
+[spirit-helpers]: {% post_link 2016-08-01-SpiritHelpers %}
