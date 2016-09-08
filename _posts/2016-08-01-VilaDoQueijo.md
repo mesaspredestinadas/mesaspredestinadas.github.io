@@ -418,4 +418,4 @@ _ENORME!!! (ao menos para camundongos); Monstro Comedor de Camundongos_
 + **Estresse:** `6`{: .fate_font}
 
 
-[spirit-helpers]: {% post_link 2016-08-01-SpiritHelpers %}
+[spirit-helpers]: {% post_url 2016-08-01-SpiritHelpers %}
