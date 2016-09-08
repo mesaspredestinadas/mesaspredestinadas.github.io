@@ -5,8 +5,6 @@ subheadline: Pequenos Camundongos enfrentam um grande problema para manter seus 
 categories:
   - Aventuras
 tags:
- - Fate
- - Fate-Core
  - Camundongos Aventureiros
 header: no
 ---
@@ -420,4 +418,4 @@ _ENORME!!! (ao menos para camundongos); Monstro Comedor de Camundongos_
 + **Estresse:** `6`{: .fate_font}
 
 
-[spirit-helpers]: /rpg/SpiritHelpers/
+[spirit-helpers]: {% post_link 2016-08-01-SpiritHelpers %}
