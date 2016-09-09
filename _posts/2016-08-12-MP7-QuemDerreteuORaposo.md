@@ -23,7 +23,7 @@ hosts:
   - Gabriela Garofano (_Oficial Bunny "Manteiguinha" Butter_)
 audios:
  - OGG: https://archive.org/download/MPEp7QuemDerreteuORaposo/MP-Ep7-QuemDerreteuORaposo.ogg
- - MP3: https://archive.org/download/MPEp7QuemDerreteuORaposo/MP=Ep7-QuemDerreteuORaposo.mp3
+ - MP3: https://archive.org/download/MPEp7QuemDerreteuORaposo/MP-Ep7-QuemDerreteuORaposo.mp3
 iaplayer: MPEp7QuemDerreteuORaposo
 comments: true
 related_links:
