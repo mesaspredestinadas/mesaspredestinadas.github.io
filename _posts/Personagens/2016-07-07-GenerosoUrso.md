@@ -6,6 +6,7 @@ categories:
  - personagens
 tags:
   - "Do - Fate of the Pilgrim Temple"
+ - materiais
 header: no
 ---
 

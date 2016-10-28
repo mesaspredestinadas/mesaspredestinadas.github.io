@@ -8,6 +8,7 @@ tags:
  - Fate
  - Fate-Core
  - Camundongos Aventureiros
+ - materiais
 header: no
 excerpt_separator: <!-- excerpt -->
 ---
