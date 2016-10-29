@@ -8,6 +8,7 @@ categories:
   - Adventure
 tags:
   - wtc
+ - materiais
 ---
 
 ## The Verne Chieftain
